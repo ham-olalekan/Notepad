@@ -1,0 +1,12 @@
+
+//creating the required classess
+class NoteApplication {
+    constructor(name) {
+        this.author = author;
+        this.note = note;
+
+
+    }
+
+
+}
